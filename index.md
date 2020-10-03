@@ -3,7 +3,9 @@
 This git page shows our AEC result
 
 ### result after process
-<EMBED src="yuhang.wav.com/mix" autostart="bool" width=450 height=600 loop="n" width="m" height="k"> 
+
+<EMBED src="mix" autostart="bool" width=450 height=600 loop="n" width="m" height="k"> 
+  
 ### result after baseline system process
 
 ### unprocessed data
