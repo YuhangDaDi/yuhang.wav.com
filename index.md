@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CAS Institute of Acoustics Language Acoustics and Content Understanding Laboratory
 
-You can use the [editor on GitHub](https://github.com/YuhangDaDi/yuhang.wav.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This git page shows our AEC result
 
 ### Markdown
 
